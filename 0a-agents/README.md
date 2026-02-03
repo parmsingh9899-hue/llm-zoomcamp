@@ -1,5 +1,7 @@
 ## A. Agents
 
+# **HELLO BROTHER**
+
 In this bonus module, we'll explore Agentic RAG.
 
 This year it's an experimental module, which we do as
